@@ -1,0 +1,10 @@
+1.Define a class product with data member prod code , prod name and price. create 3  object of product class and find the product having lowest price
+2.Write a menu driven pgm to perform matrix operation?(Add,mul,tranpose)
+3.Addition of two complex number?
+4.Check whether a matrix is symmetric or not?
+5.Create  an array and search for a particular item in the array ?
+6.To perform String manipulation?(lowercase,uppercase,find_lenght,find the substring,find index of the  first occurrence of the character in the given string?
+7.Create a java pgm with a class for an employee having attributes empno,name,salary.Find the total salary of that employee?
+8.Create a java pgm with a class for an employee having attributes empno,name,salary.Read N Employee information from user and search for an employee using the empno (use concept of array of object)?
+   **syntax : classname obj[] = new classname[n];
+         eg : employee obj[] = new employee[n];
